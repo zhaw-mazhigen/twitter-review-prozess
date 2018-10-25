@@ -25,7 +25,7 @@ public class TwitterReviewApplication {
     /**
      * Haupt-Methode, welche beim Run-Befehl eine
      * Camunda-Prozessapplikation erstellt.
-     *
+     * hallo welt
      * @param args
      */
     public static void main(String[] args) {
